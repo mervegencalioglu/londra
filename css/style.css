@@ -1,0 +1,64 @@
+h1 {
+    font-family: 'Outfit', sans-serif;
+}
+
+p {
+    font-family: 'Arsenal', sans-serif;
+    font-size: 20px;
+}
+h3 {
+    font-family: 'Arsenal', sans-serif;
+}
+.header {
+    text-align: center;
+    color: black;
+    font-size: 95px;
+    line-height: 0;
+  }
+
+  ul.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.menu li {
+	display: inline;
+  
+}
+  
+ul.menu li a {
+	text-decoration: none;
+  padding: 10px;
+  color: white;
+  background-color: #E4CE8E;
+}
+
+ul.menu li a:hover {
+  background-color: #D77948;
+}
+
+.center { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 65%;
+}
+
+body {
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.ortala {
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: justify;
+}
+
+.image-mar {
+  margin-top:20px;
+  margin-bottom:20px;
+  margin-left: 100px;
+}
